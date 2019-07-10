@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './row.css';
+import 'C:/Users/vova/Desktop/n3-12-12/react-apps/react-star-db/src/components/row/row.css';
 
 const Row = ({ left, right }) => {
   return (
